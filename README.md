@@ -11,6 +11,10 @@ Welcome to my GitHub profile!
 - 💬 Ask me about HTML, CSS, JavaScript, Tailwind, React etc.
 - 📫 How to reach me: [44fahadhasan@gmail.com](mailto:44fahadhasan@gmail.com)
 
+## 📈 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=44fahadhasan&layout=compact&theme=radical)
+
 ## 🛠️ Skills
 
 <a href="https://github.com/44fahadhasan">
@@ -46,10 +50,6 @@ Welcome to my GitHub profile!
 <a href="https://github.com/44fahadhasan">
  <img src="https://img.shields.io/badge/github-3776AB?style=for-the-badge&logo=github&logoColor=white" /> 
 </a>&nbsp;&nbsp;
-
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=44fahadhasan&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 
